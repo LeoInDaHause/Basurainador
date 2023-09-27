@@ -1,1 +1,1 @@
-
+# Csrip pra rassberry pico
