@@ -8,4 +8,4 @@ Proyecto Electrónica - 1 Semestre
 ## Diagrama de Tecnologico
 
 
-![image](https://github.com/LeoInDaHause/Basurainador/assets/138258855/81752d6d-d171-4192-abb7-9291ad8b3176)
+![image](https://github.com/LeoInDaHause/Basurainador/assets/138258855/a6cf9bfb-8284-480a-9d4a-243db15b6af3)
