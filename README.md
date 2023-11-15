@@ -13,4 +13,3 @@ Proyecto Electrónica - 1 Semestre
 
 ![Plantilla_TPI pptx](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4bc3f24f-2540-4486-b662-999ec0575961)
 
-![image](https://github.com/LeoInDaHause/Basurainador/assets/138258855/a6cf9bfb-8284-480a-9d4a-243db15b6af3)
