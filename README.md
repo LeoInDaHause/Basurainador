@@ -7,8 +7,7 @@ Proyecto Electrónica - 1 Semestre
 
 ## Diagrama de Tecnologico
 
-
-[Basurainado diagrama refinado.pdf](https://github.com/LeoInDaHause/Basurainador/files/13358845/Basurainado.diagrama.refinado.pdf)
+![Basurainado diagrama refinado_page-0001](https://github.com/LeoInDaHause/Basurainador/assets/145580263/1e3c38ab-1e7f-4c89-8f65-5467335ea5b1)
 
 ## Póster
 
