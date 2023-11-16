@@ -37,7 +37,16 @@ de esta manera se espera que el niño de 5 a 7 años interactue con el "artefact
 ## Leds: color: Azul. Verde. Rojo. Amarillo
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4c750721-732a-460f-a701-f75083fb33bf)
 ## Pantalla: aun falta definir (LCD ó OLED)
+(falta poner imagen)
+## material usado para la contruccion de la caneca: madera MDF (fibras de densidad media)
+<img width="233" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/7f518f0e-8650-4f9f-b3a6-8981b6134db7">
 
 
+
+# Proceso de aprendizaje:
+1. en un principio al empezar con el microcontrolador se empezo por una raspberry pi pico, en este proceso mediante un computador se utilizaron librerias que funcionaran para el Programa de programacion en este caso el usado fue Thonny.
+
+   
+![se empieza la configuración de la raspberry](https://github.com/LeoInDaHause/Basurainador/assets/145580263/c979784a-77c5-47b1-9be0-c0d03916c9ff)
 
 
