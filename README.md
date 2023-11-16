@@ -27,11 +27,16 @@ de esta manera se espera que el niño de 5 a 7 años interactue con el "artefact
 
 ![Plantilla_TPI pptx](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4bc3f24f-2540-4486-b662-999ec0575961)
 
-## Elementos usados para la construcción del "Artefacto"
-# MICROCONTROLADOR : ESP32
+# Elementos usados para la construcción del "Artefacto"
+## PCB:
+(falta porner imagen)
+## MICROCONTROLADOR : ESP32
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/1132f75d-44ca-4851-b980-5a268a7b3840)
-# SENSOR: TCS3200
+## SENSOR: TCS3200
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/349dfbfd-b36b-4805-aa15-5b5d4be5e8ec)
+## Leds: color: Azul. Verde. Rojo. Amarillo
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4c750721-732a-460f-a701-f75083fb33bf)
+## Pantalla: aun falta definir (LCD ó OLED)
 
 
 
