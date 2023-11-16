@@ -50,7 +50,13 @@ de esta manera se espera que el niño de 5 a 7 años interactue con el "artefact
 
 los problemas que se tubieron con la raspberry pi pico:
 
-en este desarrollo se experimentaron diferentes problemas, debido a que se tubo que instalar diferentes archivos, y pedir permisos al computador para poderlos ejecutar, ya teniendo la rasbperry pi pico conectada al computador y a Thonny se empezo a cacharrear el funcionamiento con los pines mediante actividades durante el taller. nos guiamos mediante el datacheet.
+en este desarrollo se experimentaron diferentes problemas, debido a que se tubo que instalar diferentes archivos, y pedir permisos al computador para poderlos ejecutar, ya teniendo la rasbperry pi pico conectada al computador y a Thonny se empezo a cacharrear el funcionamiento con los pines mediante actividades durante el taller. nos guiamos mediante el datacheet y de diferentes paginas encontradas en internet, la inmensa mayoria en ingles.
+
+![se enciende el sensor con la raspberry](https://github.com/LeoInDaHause/Basurainador/assets/145580263/f92ea0a6-6f2d-4c82-b09b-5d995e3a37b9)
+![se empieza a cacharrearle al sensor TCS3200, con la raspberry](https://github.com/LeoInDaHause/Basurainador/assets/145580263/f9468f3b-2b10-4851-8b52-e5cb527eaa0d)
+
+
+
 
 Otro problema presentado fue a partir de intentar conectar los pines con los diferentes componentes en la protoboard, este problema se presentaba a razon de que no habia una buena conexion en la protoboard, lo que conllevaba a que aveces funcionaba y aveces no. En consecuencia de esto se decide soldar a los pines de la raspberry pi pico unas regletas, para poner conectar estas con jumpers hembra, debido a la inexperiencia la soldadura quedo mal, y la raspberry pi pico presento otros problemas 
 
