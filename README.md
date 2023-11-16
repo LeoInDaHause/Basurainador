@@ -46,7 +46,15 @@ de esta manera se espera que el niño de 5 a 7 años interactue con el "artefact
 # Proceso de aprendizaje:
 1. en un principio al empezar con el microcontrolador se empezo por una raspberry pi pico, en este proceso mediante un computador se utilizaron librerias que funcionaran para el Programa de programacion en este caso el usado fue Thonny.
 
-   
 ![se empieza la configuración de la raspberry](https://github.com/LeoInDaHause/Basurainador/assets/145580263/c979784a-77c5-47b1-9be0-c0d03916c9ff)
+
+los problemas que se tubieron con la raspberry pi pico:
+
+en este desarrollo se experimentaron diferentes problemas, debido a que se tubo que instalar diferentes archivos, y pedir permisos al computador para poderlos ejecutar, ya teniendo la rasbperry pi pico conectada al computador y a Thonny se empezo a cacharrear el funcionamiento con los pines mediante actividades durante el taller. nos guiamos mediante el datacheet.
+
+Otro problema presentado fue a partir de intentar conectar los pines con los diferentes componentes en la protoboard, este problema se presentaba a razon de que no habia una buena conexion en la protoboard, lo que conllevaba a que aveces funcionaba y aveces no. En consecuencia de esto se decide soldar a los pines de la raspberry pi pico unas regletas, para poner conectar estas con jumpers hembra, debido a la inexperiencia la soldadura quedo mal, y la raspberry pi pico presento otros problemas 
+
+despues de presentar los problemas anteriormente mencionado, se decidio en conjunto utilizar el microcontrolador ESP32, esto debido a que es mas facil de usar, y ya tenia las regletas soldadas.
+
 
 
