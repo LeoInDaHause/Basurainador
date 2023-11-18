@@ -21,6 +21,13 @@ Ya teniendo en cuenta esto entonces se procede a empezar la planificación del p
 
 # Planificacion del proyecto
 
-primero se realizo un diagrama
+primero se realizaron diferentes fractales, para darnos una idea mas especifica de como habia de ser orientado el proyecto.
+que se pueden ver en el siguiente link
+
+https://lucid.app/lucidspark/51dd2235-cf69-4047-a6bc-4f634783bd4e/edit?page=0_0&invitationId=inv_4f655ac1-2eff-4e74-9612-6d7633a6c7d3#
+
+
+
+
 
 
