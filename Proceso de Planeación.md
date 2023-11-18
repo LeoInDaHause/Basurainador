@@ -28,6 +28,10 @@ https://lucid.app/lucidspark/51dd2235-cf69-4047-a6bc-4f634783bd4e/edit?page=0_0&
 
 despues se realizo un Diagrama de caja Negra que muestra lo que debe de hacer nuestro proyecto
 ## Diagrama de caja negra
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/d3eeebaa-97f2-4fae-afa5-6de148dfeab5)
+seguido de esta paso tambien se realizo el diagrama tecnologico, es decir los componentes tecnologicos que se usaran en el proyecto
+## Diagrama Tecnologico
+
 
 
 
