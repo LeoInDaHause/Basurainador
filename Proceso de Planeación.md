@@ -31,6 +31,7 @@ despues se realizo un Diagrama de caja Negra que muestra lo que debe de hacer nu
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/d3eeebaa-97f2-4fae-afa5-6de148dfeab5)
 seguido de esta paso tambien se realizo el diagrama tecnologico, es decir los componentes tecnologicos que se usaran en el proyecto
 ## Diagrama Tecnologico
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/c78012e1-7e52-4710-bc1e-f42301cc1278)
 
 
 
