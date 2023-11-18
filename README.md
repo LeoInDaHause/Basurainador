@@ -36,7 +36,7 @@ de esta manera se espera que el niño de 5 a 7 años interactue con el "artefact
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/349dfbfd-b36b-4805-aa15-5b5d4be5e8ec)
 ## Leds: color: Azul. Verde. Rojo. Amarillo
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4c750721-732a-460f-a701-f75083fb33bf)
-## Pantalla: Groove LCD blacklight V2.0
+## Pantalla: Groove LCD RGB backlight V2.0
 
 ![Pantalla LCD](https://github.com/LeoInDaHause/Basurainador/assets/145580263/c177f1ee-1e09-40a3-adc5-5680221ad432)
 
