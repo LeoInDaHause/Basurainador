@@ -1,3 +1,8 @@
+# Integrantes
+Cesar Rodriguez
+Diego Carvajal
+Jhohan Rodriguez
+
 # BASURA-INADOR
 
 Este proyecto que tiene como objetivo central crear una cultura positiva alrededor de las basuras, en esto se trata sobre el reciclaje y el manejo de las basuras. con el objetivo de lograr esto se crea un "artefacto" que sea didactico y que llame la atención de niños entre los 5 a 7 años.
@@ -90,6 +95,16 @@ despues de presentar los problemas anteriormente mencionado, se decidio en conju
 2. comienza el proceso de (configurar) la ESP32 con el computador y con micropython,
 
 ![ESP32 configuración](https://github.com/LeoInDaHause/Basurainador/assets/145580263/6b5ed483-dd46-4216-bff7-e1a90f6b4b46)
+
+3. ya configurado la ESP32, se empieza a revisar los pines para realizar las conexiones, para esto se utilizo una Guia
+
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/be578ef2-7340-49ef-827c-907fe42bb89f)
+
+4. Cuando se configuro la ESP32 con el Sensor TCS3200, se empezo a detectar un problema que en un principo no sabiamos su causa, este problema se trataba sobre los valores que arrojaba la TCS3200 cuando se intentaba determinar un color, debido a que eran valores que variaban a cada segundo y de una manera aleatoria.
+esto de detecto cuando se reviso lo que sucedia en el osciloscopio.
+La razón de este problema era debido al ruido que habia habia en el ambiente (luz natural o luz de los bombillos)
+por lo cual nos dimos de cuenta de que para que el sensor funcione correctamente este debia de estar en cierta oscuridad
+
 
 
 
