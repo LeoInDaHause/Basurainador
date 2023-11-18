@@ -26,18 +26,13 @@ que se pueden ver en el siguiente link
 
 https://lucid.app/lucidspark/51dd2235-cf69-4047-a6bc-4f634783bd4e/edit?page=0_0&invitationId=inv_4f655ac1-2eff-4e74-9612-6d7633a6c7d3#
 
-despues se realizo un Diagrama de caja Negra que muestra lo que debe de hacer nuestro proyecto
+despues se realizo un Diagrama de caja Negra que muestra lo que debe de hacer nuestro proyecto, este diagrama de caja negra fue progresando poco a poco, de igual manera que el diagrama tecnologico. hasta llegar a su fase final
 ## Diagrama de caja negra
-![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/d3eeebaa-97f2-4fae-afa5-6de148dfeab5)
-seguido de esta paso tambien se realizo el diagrama tecnologico, es decir los componentes tecnologicos que se usaran en el proyecto
-## Diagrama Tecnologico
-![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/c78012e1-7e52-4710-bc1e-f42301cc1278)
-
-a medida que fue avanzando el proyecto se fueron agregando otros componentes electronicos, por lo cual el diagrama de caja negra, y el diagrama tecnologico, fueron de a poco transformandose hasta en definitiva quedan de esta manera. 
-
 ![Diagrama de caja negra](https://github.com/LeoInDaHause/Basurainador/assets/145580263/3c245d27-6e79-4683-90cf-94d41efbf275)
 
+## Diagrama Tecnologico
 ![Basurainado diagrama refinado](https://github.com/LeoInDaHause/Basurainador/assets/145580263/3ad1ac15-a445-4519-980e-23fce6925c70)
+
 
 # Proyecto Terminado
 
