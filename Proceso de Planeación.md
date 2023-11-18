@@ -21,18 +21,19 @@ Ya teniendo en cuenta esto entonces se procede a empezar la planificación del p
 
 # Planificacion del proyecto
 
-primero se realizaron diferentes fractales, para darnos una idea mas especifica de como habia de ser orientado el proyecto.
-que se pueden ver en el siguiente link
+primero se realizaron diferentes fractales, para darnos una idea mas especifica de como habia de ser orientado el proyecto. junto a una justificacion, un estado del arte, un marco teorico, y un planteamiento de la problematica, el fractal se pueden ver en el siguiente link
 
 https://lucid.app/lucidspark/51dd2235-cf69-4047-a6bc-4f634783bd4e/edit?page=0_0&invitationId=inv_4f655ac1-2eff-4e74-9612-6d7633a6c7d3#
 
+
 despues se realizo un Diagrama de caja Negra que muestra lo que debe de hacer nuestro proyecto, este diagrama de caja negra fue progresando poco a poco, de igual manera que el diagrama tecnologico. hasta llegar a su fase final
+
+
 ## Diagrama de caja negra
 ![Diagrama de caja negra](https://github.com/LeoInDaHause/Basurainador/assets/145580263/3c245d27-6e79-4683-90cf-94d41efbf275)
 
 ## Diagrama Tecnologico
 ![Basurainado diagrama refinado](https://github.com/LeoInDaHause/Basurainador/assets/145580263/3ad1ac15-a445-4519-980e-23fce6925c70)
-
 
 # Proyecto Terminado
 
