@@ -26,6 +26,9 @@ que se pueden ver en el siguiente link
 
 https://lucid.app/lucidspark/51dd2235-cf69-4047-a6bc-4f634783bd4e/edit?page=0_0&invitationId=inv_4f655ac1-2eff-4e74-9612-6d7633a6c7d3#
 
+despues se realizo un Diagrama de caja Negra que muestra lo que debe de hacer nuestro proyecto
+## Diagrama de caja negra
+
 
 
 
