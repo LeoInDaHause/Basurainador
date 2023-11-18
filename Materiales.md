@@ -6,7 +6,7 @@
 
 ## Sensor TCS3200
 
-## pantalla LCD
+## Pantalla Groove LCD RGB backlight V2.0
 
 ## Servomotor
 
