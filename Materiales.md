@@ -2,6 +2,8 @@
 
 ## PCB
 
+(falta poner imagen)
+
 ## ESP32
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/8d771cdc-9d76-4ed5-8475-d609863049bc)
