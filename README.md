@@ -73,4 +73,9 @@ Otro problema presentado fue a partir de intentar conectar los pines con los dif
 despues de presentar los problemas anteriormente mencionado, se decidio en conjunto utilizar el microcontrolador ESP32, esto debido a que por una parte ya tiene las regletas soldadas, tambien porque esta mejor documentado por internet que la rasbperry pi pico, y ademas ya tiene mas bibliotecas.
 
 
+2. comienza el proceso de (configurar) la ESP32 con el computador y con micropython,
+
+![ESP32 configuración](https://github.com/LeoInDaHause/Basurainador/assets/145580263/6b5ed483-dd46-4216-bff7-e1a90f6b4b46)
+
+
 
