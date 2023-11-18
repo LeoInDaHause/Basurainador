@@ -1,1 +1,0 @@
-# Csrip pra rassberry pico
