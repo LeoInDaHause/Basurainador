@@ -53,3 +53,7 @@ con la pantalla LCD se tubo un problema con respecto a su conexion en un princip
 7. ya soldada los cables a la pantalla lcd se empiza a relaizar la programacion para que esta proyectara lo que queriamos, en este caso producir un mensaje aleatorio solicitandole al usuario un elemento(basura) entre ("Organico", "Papel y Metal", "Plastico y Vidrio"), y dependiendo de si es correcto esta daria un mensaje "Correcto" y en otro caso "Incorrecto"
 
 https://github.com/LeoInDaHause/Basurainador/assets/145580263/93dd53f0-decb-44f5-940f-e1c6dde341c4
+
+8. despues se intento agregar un transductor (parlante), como otro motivo de estimulo produjiera un sonido "bueno", indicandole al niño que lo hizo bien, o en otro caso un sonido "malo", indicando que la basura propiciada por este era erronea. pero en este proceso se vieron dificultades con respecto a la programación, esto debido a que por alguna razon interferia con el servomotor, haciendo que el servomotor no se mantubiera en la posicion en la que tenia que estar. este proceso de colocar el transductor se intento realizar en los ultimos dias, por lo que el artefacto final presentado, fue sin el transductor
+
+
