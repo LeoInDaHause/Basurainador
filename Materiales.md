@@ -13,6 +13,9 @@
 
 ## Pantalla Groove LCD RGB backlight V2.0
 
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/720cca95-2cba-493c-bb11-2f0265876d77)
+
+
 ## Servomotor
 
 ## Luces LED
