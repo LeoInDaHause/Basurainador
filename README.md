@@ -70,7 +70,7 @@ Otro problema presentado fue a partir de intentar conectar los pines con los dif
 ![pines soldados pico](https://github.com/LeoInDaHause/Basurainador/assets/145580263/6f64840f-95db-45ec-b8b6-1bc1cc80af8f)
 
 
-despues de presentar los problemas anteriormente mencionado, se decidio en conjunto utilizar el microcontrolador ESP32, esto debido a que es mas facil de usar, y ya tenia las regletas soldadas.
+despues de presentar los problemas anteriormente mencionado, se decidio en conjunto utilizar el microcontrolador ESP32, esto debido a que por una parte ya tiene las regletas soldadas, tambien porque esta mejor documentado por internet que la rasbperry pi pico, y ademas ya tiene mas bibliotecas.
 
 
 
