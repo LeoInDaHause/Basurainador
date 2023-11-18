@@ -36,7 +36,16 @@ de esta manera se espera que el niño de 5 a 7 años interactue con el "artefact
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/349dfbfd-b36b-4805-aa15-5b5d4be5e8ec)
 ## Leds: color: Azul. Verde. Rojo. Amarillo
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4c750721-732a-460f-a701-f75083fb33bf)
-## Pantalla: aun falta definir (LCD ó OLED)
+## Pantalla: Groove LCD blacklight V2.0
+
+![Pantalla LCD](https://github.com/LeoInDaHause/Basurainador/assets/145580263/c177f1ee-1e09-40a3-adc5-5680221ad432)
+
+
+## Servomotor: Servomotor SG90
+
+![servomotor](https://github.com/LeoInDaHause/Basurainador/assets/145580263/d9f502cb-ad74-47e5-bad5-7212e41304a0)
+
+
 (falta poner imagen)
 ## material usado para la contruccion de la caneca: madera MDF (fibras de densidad media)
 <img width="233" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/7f518f0e-8650-4f9f-b3a6-8981b6134db7">
