@@ -6,8 +6,10 @@
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/8d771cdc-9d76-4ed5-8475-d609863049bc)
 
-
 ## Sensor TCS3200
+
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/444c2f8c-91b3-449d-b46f-fc273f745a63)
+
 
 ## Pantalla Groove LCD RGB backlight V2.0
 
