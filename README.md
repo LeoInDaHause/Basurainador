@@ -51,7 +51,9 @@ Las teorias que sustentan este proyecto son fisicas orientadas a la elecctronica
 
 ![Plantilla_TPI pptx](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4bc3f24f-2540-4486-b662-999ec0575961)
 
+# Proyecto Finalizado
 
+(video)
 
 
 
