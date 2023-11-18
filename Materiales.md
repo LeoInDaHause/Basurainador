@@ -23,4 +23,7 @@
 
 ## Madera MDF(fibras de densidad media)
 
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/05eb23d3-fa61-4178-9e0a-c2a9eb84f72f)
+
+
 ## (posible) transductor(parlante)
