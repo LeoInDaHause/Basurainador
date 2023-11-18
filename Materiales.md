@@ -15,8 +15,9 @@
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/720cca95-2cba-493c-bb11-2f0265876d77)
 
+## Servomotor SG90
 
-## Servomotor
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/523d9ae6-f596-4f0a-bad9-3e9a11fe44bc)
 
 ## Luces LED
 
