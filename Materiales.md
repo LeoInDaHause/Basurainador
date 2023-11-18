@@ -31,3 +31,5 @@
 
 
 ## (posible) transductor(parlante)
+
+## Resistencias
