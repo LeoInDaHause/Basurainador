@@ -12,4 +12,6 @@
 
 ## Luces LED
 
-## Madera MDF
+## Madera MDF(fibras de densidad media)
+
+## (posible) transductor(parlante)
