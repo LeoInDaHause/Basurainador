@@ -25,6 +25,7 @@ primero se realizaron diferentes fractales, para darnos una idea mas especifica 
 
 https://lucid.app/lucidspark/51dd2235-cf69-4047-a6bc-4f634783bd4e/edit?page=0_0&invitationId=inv_4f655ac1-2eff-4e74-9612-6d7633a6c7d3#
 
+Durante el proceso, en el grupo se experimentaron diferentes debates que alimentaron de manera positiva al proyecto para ir aterrizandolo cada vez mas, en esto se debatieron como debia de ser el sistema de estimulos para atraer la atencion de los niños, tambien se debatio el uso de diferentes sensores, el material de la caneca, y tambien se debatio sobre que microcontrolador se debia de usar. 
 
 despues se realizo un Diagrama de caja Negra que muestra lo que debe de hacer nuestro proyecto, este diagrama de caja negra fue progresando poco a poco, de igual manera que el diagrama tecnologico. hasta llegar a su fase final
 
