@@ -107,7 +107,7 @@ esto de detecto cuando se reviso lo que sucedia en el osciloscopio.
 La razón de este problema era debido al ruido que habia habia en el ambiente (luz natural o luz de los bombillos)
 por lo cual nos dimos de cuenta de que para que el sensor funcione correctamente este debia de estar en cierta oscuridad, por lo que nuestro proyecto debe de estar en lugares cerrados.
 
-(imagen)
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/f8fa7fb0-5a03-4483-8f1f-75cc281547f0)
 
 Cuando se consiguio solucionar los problemas tanto de programacion como de iluminación, se prosiguio a hacer el servomotor
 
@@ -115,7 +115,19 @@ Cuando se consiguio solucionar los problemas tanto de programacion como de ilumi
 
 https://github.com/LeoInDaHause/Basurainador/assets/145580263/3488bf7d-7020-4524-8e29-eb3a34d98795
 
-6. 
+ya configurado correctamente el servomotor se prosigue
+
+6. Configuracion de la Pantalla LCD
+
+con la pantalla LCD se tubo un problema con respecto a su conexion en un principio debido a que se necesitaba un cable especial que no se pudo conseguir, por lo que se tubo que soldar.
+
+(imagen)
+
+7. ya soldada los cables a la pantalla lcd se empiza a relaizar la programacion para que esta proyectara lo que queriamos, en este caso producir un mensaje aleatorio solicitandole al usuario un elemento(basura) entre ("Organico", "Papel y Metal", "Plastico y Vidrio"), y dependiendo de si es correcto esta daria un mensaje "Correcto" y en otro caso "Incorrecto"
+
+https://github.com/LeoInDaHause/Basurainador/assets/145580263/93dd53f0-decb-44f5-940f-e1c6dde341c4
+
+
 
 
 
