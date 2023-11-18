@@ -33,6 +33,10 @@ seguido de esta paso tambien se realizo el diagrama tecnologico, es decir los co
 ## Diagrama Tecnologico
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/c78012e1-7e52-4710-bc1e-f42301cc1278)
 
+a medida que fue avanzando el proyecto se fueron agregando otros componentes electronicos, por lo cual el diagrama de caja negra, y el diagrama tecnologico, fueron de a poco transformandose hasta en definitiva quedan de esta manera. 
+
+<img width="536" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/5faceba8-cdc2-4f00-94d3-ad9005f40012">
+
 
 
 
