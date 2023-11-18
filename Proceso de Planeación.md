@@ -10,4 +10,10 @@ por lo que nos propusimos crear, mediante la Ingenieria Electronica, un artefact
 
 para crear este artefacto se realizo previamente una investigacion, las concluciones a las que llegamos fueron: 
 
+1. para atacar la problematica que sufre nuestra sociedad sobre la cultura alrededor de las basuras, lo mas inteligente es crear una nueva cultura que empieze desde los niños (futuros adultos).
+
+2. como la poblacion objetivo son los niños, el artefacto que se quiere crear a de ser didactico y facil de usar, con el objetivo de que los niños no se aburran de este
+
+3. el artefacto en cuestion debe de generar un impacto a corto, mediano y largo plazo
+
 
