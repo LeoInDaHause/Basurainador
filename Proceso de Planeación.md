@@ -39,9 +39,9 @@ a medida que fue avanzando el proyecto se fueron agregando otros componentes ele
 
 ![Basurainado diagrama refinado](https://github.com/LeoInDaHause/Basurainador/assets/145580263/3ad1ac15-a445-4519-980e-23fce6925c70)
 
+# Proyecto Terminado
 
-
-
+(video)
 
 
 
