@@ -35,10 +35,12 @@ seguido de esta paso tambien se realizo el diagrama tecnologico, es decir los co
 
 a medida que fue avanzando el proyecto se fueron agregando otros componentes electronicos, por lo cual el diagrama de caja negra, y el diagrama tecnologico, fueron de a poco transformandose hasta en definitiva quedan de esta manera. 
 
-[Diagrama de caja negra.pdf](https://github.com/LeoInDaHause/Basurainador/files/13401407/Diagrama.de.caja.negra.pdf)
+![Diagrama de caja negra](https://github.com/LeoInDaHause/Basurainador/assets/145580263/3c245d27-6e79-4683-90cf-94d41efbf275)
+
+![Basurainado diagrama refinado](https://github.com/LeoInDaHause/Basurainador/assets/145580263/3ad1ac15-a445-4519-980e-23fce6925c70)
 
 
-[Basurainado diagrama refinado (3).pdf](https://github.com/LeoInDaHause/Basurainador/files/13401406/Basurainado.diagrama.refinado.3.pdf)
+
 
 
 
