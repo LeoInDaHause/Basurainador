@@ -1,4 +1,4 @@
-onfiguracion de la Pantalla LCD
+configuracion de la Pantalla LCD
 
 con la pantalla LCD se tubo un problema con respecto a su conexion en un principio debido a que se necesitaba un cable 
 especial que no se pudo conseguir, por lo que se tubo que soldar.
