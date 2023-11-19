@@ -5,6 +5,7 @@ El diseño de la caje se realizo por Sketchup y Autocad
 <img width="387" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/0a2a0e88-9241-4eeb-8168-cc67ff31ac9d">
 
 Imagenes de las caras por separado
+
 <img width="257" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/821fb762-77e5-4a4d-8605-f532069594bc">
 <img width="401" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/afd68266-3571-4d4f-8f73-6113f08b61d6">
 <img width="434" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/a9135347-ecf7-4dd6-bc5f-669b3b81f111">
