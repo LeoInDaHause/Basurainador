@@ -2,6 +2,9 @@
 
 El diseño de la caje se realizo por Sketchup y Autocad
 
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/ebcf6e8b-fe8e-4473-ba6e-10308ffc26da)
+
+
 <img width="387" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/0a2a0e88-9241-4eeb-8168-cc67ff31ac9d">
 
 Imagenes de las caras por separado
