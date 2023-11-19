@@ -3,3 +3,9 @@ el proceso de la PCB, se realizo por medio de la aplicación kicad, esto debido 
 Despues se convierte el esquematico a brupint el cual hay que unir los camino de los cuales se escogieron, de igual que establecer su diametro. en este punto es muy importante por que hay que tener mucho cuidado de no cruzar los caminos, que estubieran diferentes para saber lo que iba conectado a que.
 
 ya Finalizo el proceso de las capas de la PCB, esta se envio a una empresa en Bogotá que hace la PCB que fue diseñada, esta nos la entregan el lunes (20-11-2023) a las 5pm
+
+## Errores que tubimos en este proceso
+
+1. en la creacion de la PCB, por medio de kicad, hubo mala conexion de los pines por lo cual arrojaba errores
+2. otro problema fue el desconocimiento con la aplicacion que complico las cosas, pero con la ayuda del profesor este camino se
+   fue despejando y haciendose mas facil
