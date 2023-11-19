@@ -4,7 +4,7 @@ para la creación de la PCB, se empezo a realizar en las 3 ultimas semanas, esta
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/e23c5c04-8c5a-4105-8810-c6d84fe6661b)
 
-Despues se empezaron a crear los caminos para comunicar los componentes
+Despues se empezaron a crear los caminos(tracks) para comunicar los componentes
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/50c18424-0764-4352-b607-dfb01bbcab1c)
 
@@ -13,6 +13,11 @@ Despues se empezaron a crear los caminos para comunicar los componentes
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/f637659f-4350-4d90-82bd-2d55fffcb54e)
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/2e0811ce-be97-403a-986e-b902e2ebd6ad)
+
+la siguiente imagen es sobre el diametro de cada camino para el voltaje y los normales
+
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/f81b656a-8de1-4b5b-9abb-be7aa17fb2b5)
+
 
 
 
