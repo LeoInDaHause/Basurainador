@@ -1,4 +1,4 @@
-uando se configuro la ESP32 con el Sensor TCS3200, se empezo a detectar un problema que en un principo no sabiamos su causa, 
+cuando se configuro la ESP32 con el Sensor TCS3200, se empezo a detectar un problema que en un principo no sabiamos su causa, 
 este problema se trataba sobre los valores que arrojaba la TCS3200 cuando se intentaba determinar un color, debido a que 
 eran valores que variaban a cada segundo y de una manera aleatoria, (paralelo a esto tambien exisatian errores de programación, que el profesor nos fue ayudando a ir resolviendo este problema)
 esto de detecto cuando se reviso lo que sucedia en el osciloscopio.
