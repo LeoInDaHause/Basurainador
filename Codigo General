@@ -1,19 +1,12 @@
 # Codigo General del Proyecto
 
 from tcs3200 import TCS3200 
-
 import i2c_lcd #16 por fila y 2 columnas
-
 from servo import Servo
-
 from machine import Pin, I2C
-
 import time
-
 import utime
-
 from neopixel import NeoPixel
-
 import random
 
 i2c = I2C(0, scl=Pin(22), sda=Pin(21), freq=400000)
