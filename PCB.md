@@ -4,6 +4,8 @@ para la creación de la PCB, se empezo a realizar en las 3 ultimas semanas, esta
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/e23c5c04-8c5a-4105-8810-c6d84fe6661b)
 
+Despues se empezaron a crear los caminos para comunicar los componentes
+
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/50c18424-0764-4352-b607-dfb01bbcab1c)
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/7ef1eec9-58df-4a0c-9ce5-e8a768809548)
