@@ -1,10 +1,10 @@
-# Creacion de la PCB
+# Creación de la PCB
 
-para la creación de la PCB, se empezo a realizar en las 3 ultimas semanas, esta cuando ya teniamos planteado de manera definitiva el proyecto, para el comienzo de la PCB se aprendio sobre las etiquetas utilizadas en kicat, para que se viera mas organizado la PCB
+Para la creación de la PCB, se empezo a realizar en las 3 ultimas semanas, esta cuando ya teniamos planteado de manera definitiva el proyecto, para el comienzo de la PCB se aprendio sobre las etiquetas utilizadas en kicat, para que se viera mas organizado la PCB:
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/e23c5c04-8c5a-4105-8810-c6d84fe6661b)
 
-Despues se empezaron a crear los caminos(tracks) para comunicar los componentes
+Después, se empezaron a crear los caminos(tracks) para comunicar los componentes, en la imagen se puede ver como:
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/50c18424-0764-4352-b607-dfb01bbcab1c)
 
@@ -14,7 +14,7 @@ Despues se empezaron a crear los caminos(tracks) para comunicar los componentes
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/2e0811ce-be97-403a-986e-b902e2ebd6ad)
 
-la siguiente imagen es sobre el diametro de cada camino para el voltaje y los normales
+La siguiente imagen, se trata sobre el diametro de cada camino para el voltaje y los normales:
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/f81b656a-8de1-4b5b-9abb-be7aa17fb2b5)
 
