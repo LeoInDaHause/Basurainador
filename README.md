@@ -3,7 +3,7 @@ Cesar Leonardo Rodriguez León
 
 Diego Fernando Carvajal Lagos
 
-Jhohan Stiven Rodriguez Rodroguez
+Jhohan Stiven Rodriguez Rodriguez
 
 # BASURA-INADOR
 
@@ -23,35 +23,35 @@ De esta manera se espera que el niño de 5 a 7 años interactue con el "artefact
 
 Las teorias que sustentan este proyecto son fisicas orientadas a la elecctronica, y sociales orientadas a la cultura.
 
-## Teorias orientadas a la electronica
+## Teorias orientadas a la electrónica:
 1. Leyes de Ohm
 2. Leyes de Kirchhoff
 3. Leyes de Maxwell
 4. Teoria de telecomunicaciones
 5. Teoria del control
 
-## Teoria orientadas a la cultura
+## Teoria orientadas a la cultura:
 1. Teoria del juego
 2. Condicionamiento Clasico
 3. Condicionamiento Operante
 4. Teoría de la actividad de Elkonin
 
-# Diagrama de Flujo
+# Diagrama de Flujo:
 
 ![Diagrama en blanco](https://github.com/LeoInDaHause/Basurainador/assets/145580263/8e190d24-c5a0-4307-b6f3-7c958d56d456)
 
-# Diagrama de Caja negra
+# Diagrama de Caja negra:
 <img width="890" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/44824039-855c-4b29-b5df-d9eacd21b228">
 
-# Diagrama de Tecnológico
+# Diagrama de Tecnológico:
 
 ![Basurainado diagrama refinado_page-0001](https://github.com/LeoInDaHause/Basurainador/assets/145580263/1e3c38ab-1e7f-4c89-8f65-5467335ea5b1)
 
-# Póster
+# Póster:
 
 ![Plantilla_TPI pptx](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4bc3f24f-2540-4486-b662-999ec0575961)
 
-# Proyecto Finalizado
+# Proyecto Finalizado:
 
 (video)
 
