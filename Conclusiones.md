@@ -8,3 +8,5 @@
 4. La tecnologia y en especial la Ingenieria Electronica, nos permite dar soluciones a diferentes problematicas alrededor del mundo, yendo desde lo mas tecnologico, hasta lo mas social.
 
 5. La organizacion y un cronograma es fundamental para sacar adelante un proyecto
+
+6. el profesor nos recomendo que cuando tubieramos problemas, miramos el problema de manera aislada, y no de manera conjunta, para esto debemos de mirar componente por componente, para identificar y aislar el problema que se nos presente
