@@ -6,7 +6,12 @@ ya Finalizo el proceso de las capas de la PCB, esta se envio a una empresa en Bo
 
 ya con la PCB en nuestras manos de procedio a la soldar los componentes que le pusimos
 
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/ea847d70-f90c-4e20-adf3-062adbb2078e)
+
+
 despues de soldar, se limpio con alchol isopropilico para eliminar residuos de soldadura de nuestra PCB
+
+https://github.com/LeoInDaHause/Basurainador/assets/145580263/677bf93b-1ecc-4082-81b1-64d2f14283ff
 
 cuando probamos el proyecto en la PCB, no funcionaba, por lo que dudamos de si la PCB, quedo bien hecho, por lo que empezamos a mirar su continuidad
 
