@@ -4,6 +4,14 @@ Despues se convierte el esquematico a brupint el cual hay que unir los camino de
 
 ya Finalizo el proceso de las capas de la PCB, esta se envio a una empresa en Bogotá que hace la PCB que fue diseñada, esta nos la entregan el lunes (20-11-2023) a las 5pm
 
+ya con la PCB en nuestras manos de procedio a la soldar los componentes que le pusimos
+
+despues de soldar, se limpio con alchol isopropilico para eliminar residuos de soldadura de nuestra PCB
+
+cuando probamos el proyecto en la PCB, no funcionaba, por lo que dudamos de si la PCB, quedo bien hecho, por lo que empezamos a mirar su continuidad
+
+https://github.com/LeoInDaHause/Basurainador/assets/145580263/6830ea95-e548-415c-8a15-80466148f962
+
 ## Errores que tubimos en este proceso
 
 1. en la creacion de la PCB, por medio de kicad, hubo mala conexion de los pines por lo cual arrojaba errores
