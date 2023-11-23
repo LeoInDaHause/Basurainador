@@ -22,6 +22,10 @@ PCB ya en fisico
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4b78e744-1fe5-4d8e-97d0-0f471d90c936)
 
+PCB con sus componenetes ya soldados
+
+(imagen)
+
 
 
 
