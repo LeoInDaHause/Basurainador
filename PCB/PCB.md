@@ -22,10 +22,6 @@ PCB ya en fisico
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4b78e744-1fe5-4d8e-97d0-0f471d90c936)
 
-despues de soldar los componentes en la pcb, se procedio a limpiar los residuos de la soldadura
-
-https://github.com/LeoInDaHause/Basurainador/assets/145580263/277f2b17-2bf2-46d5-b6a1-88c8d4d933dd
-
 PCB con sus componenetes ya soldados
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/a15a676a-02f3-4dc3-a6c3-c7148cc1f1e4)
