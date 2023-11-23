@@ -20,11 +20,14 @@ La siguiente imagen, se trata sobre el diametro de cada camino para el voltaje y
 
 PCB ya en fisico
 
-![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/4b78e744-1fe5-4d8e-97d0-0f471d90c936)
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/abe67d7f-26c5-487e-a91f-bb1c5751083d)
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/44977d12-3249-47a3-8c05-9edcbc2c5d73)
 
 PCB con sus componenetes ya soldados
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/a15a676a-02f3-4dc3-a6c3-c7148cc1f1e4)
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/49276823-324e-4588-a41b-38c659574561)
+
 
 
 
