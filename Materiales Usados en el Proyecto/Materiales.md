@@ -34,9 +34,4 @@
 
 ![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/ed7526a9-61ae-4fb8-9c38-ff4f3c2b7fd6)
 
-## Resistencias 220 y 1k
-
-![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/e44a7687-4b9a-4fc4-b06c-e25f4733de1d)
-![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/7fa3bf45-99a5-4ed0-9b21-fc3b55cdb5fe)
-
 
