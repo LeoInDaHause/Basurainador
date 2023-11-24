@@ -10,3 +10,6 @@ en este caso producir un mensaje aleatorio solicitandole al usuario un elemento(
 "Plastico y Vidrio"), y dependiendo de si es correcto esta daria un mensaje "Correcto" y en otro caso "Incorrecto"
 
 https://github.com/LeoInDaHause/Basurainador/assets/145580263/93dd53f0-decb-44f5-940f-e1c6dde341c4
+
+despues cuando se intento ya el proyecto completo hubo un fallo en la pantalla LCD, este se produjo debido a que un cable (jumper)
+se habia dañado, haciendo que el computador no reconozca o no detecte la pantalla.
