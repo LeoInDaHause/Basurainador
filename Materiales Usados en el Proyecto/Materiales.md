@@ -1,9 +1,7 @@
 # Materiales Usados para la Construccion del Proyecto "Artefacto"
 
 ## PCB
-
-![Uploading image.png…]()
-
+![image](https://github.com/LeoInDaHause/Basurainador/assets/145580263/d325e10e-7f81-4b25-95ad-05e79c44cc95)
 
 ## ESP32
 
