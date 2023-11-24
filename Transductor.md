@@ -4,5 +4,7 @@ al final, por lo cual la ultima semana, empezamos a cacharrear con el parlante. 
 resulta que cuando poniamos el parlante en el proyecto, junto a los otros componentes, este como que consumia mayor voltaje haciendo que el servomotor se volviera loco y perdieramos
 el control de este. por lo cual habiamos desistido debido a que ya teniamos el tiempo sobre el cuello, pero un dia antes de la presentacion, se detecto de que trataba el error.
 
+este error se producia por un PIN, Fin, GG
+
 
 
