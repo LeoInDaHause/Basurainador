@@ -2,7 +2,8 @@
 
 ## PCB
 
-(falta poner imagen)
+![Uploading image.png…]()
+
 
 ## ESP32
 
