@@ -54,3 +54,5 @@ J. Castells, "Teoría de las telecomunicaciones," Academia.edu, 2016. [En línea
 
 "Introducción - Modelado," MdP, 2016. [En línea]. Disponible: http://www3.fi.mdp.edu.ar/control4c7/APUNTES/Clase%201%20-%20Introduccion%20-%20Modelado.pdf. [Accedido: 29-nov-2023]
 
+"ESP32 Series Datasheet," Espressif Systems, 2023. [Online]. Available: https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf. [Accessed: 29-Nov-2023].
+
