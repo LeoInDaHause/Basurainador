@@ -1,4 +1,4 @@
-1. ## Problematica
+   ## Problematica
 
    La problematica que queremos atacar es la problematica Numero 12 : Produccion y consumo responsable. esta es una problematica planteada
    por la Organizacion de las Naciones Unidas (ONU).
@@ -26,3 +26,11 @@
    el alcance que queremos lograr con nuestro proyecto es generar en los niños de 5 a 7 años una cultura positiva entorno al reciclaje y
    a las basuras. y con esto lograr que los niños transformen la cultura de los mayores, empezando por sus padres. para finalmente como mayor alcance
    conseguir un mayor porcentaje de reciclaje y reutilizacion de las basuras que consumismos cotidianamente
+
+   ## cronograma palnteado para la realizacion del primer objetivo
+
+   https://www.canva.com/design/DAFuPcXsBWQ/CQxAwrTf0ytOGEh5u4aXKw/edit
+   <img width="374" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/8de59ff5-89d9-479b-81d1-a72000928620">
+
+
+   
