@@ -20,3 +20,33 @@
 3. empezar desde el principio y no dejar gran parte a ultima hora
    
 4. hacer pruebas en cada momento, para garantizar que el proyecto esta llendo por buen camino, y para identificar los errores a tiempo.
+
+## Referencias utlizadas para nuestro proyecto de investigacion
+
+”Teor ́ıa del juego - Piaget, Vigotsky, Freud”, Web de
+Psicolog ́ıa, 2019. [En l ́ınea]. Disponible: https://www.psicologia-
+online.com/teoria-del-juego-piaget-vigotsky-freud-1427.html.
+[  ́Ultimo acceso: 18-nov-2023]
+
+M. Guerri, ”Skinner y en Condicionamiento Operante”,
+PsicoActiva, 18-may-2023. [En l ́ınea]. Disponible:
+https://www.psicoactiva.com/blog/skinner-condicionamiento-
+operante/. [  ́Ultimo acceso: 18-nov-2023]
+
+GestioPolis. “Teor ́ıa general de los sistemas”. [En l ́ınea].
+Disponible en: https://www.gestiopolis.com/teoria-general-de-los-
+sistemas/. [Accedido: 20-nov-2023]
+
+Seg ́un un informe del Ministerio del Medio Ambiente de Chile,
+los Objetivos de Desarrollo Sostenible (ODS) son de gran
+importancia. [Enlace a la fuente: https://ods.mma.gob.cl/wp-
+content/uploads/2017/06/12S panishW hyitM atters.pdf ]
+
+Psicoactiva. (2023). Condicionamiento Cl ́asico. [Online]. Avail-
+able: https://www.psicoactiva.com/blog/condicionamiento-clasico/
+
+N ́ucleo do Conhecimento. (2023). Ense ̃nanza
+del Desarrollo. [Online]. Available:
+https://www.nucleodoconhecimento.com.br/educacion-
+es/ensenanza-del-desarrollo/
+
