@@ -11,7 +11,7 @@
 
 6. el profesor nos recomendo que cuando tubieramos problemas, miramos el problema de manera aislada, y no de manera conjunta, para esto debemos de mirar componente por componente, para identificar y aislar el problema que se nos presente
 
-## Recomndaciones para proyectos futuros
+## Recomendaciones para proyectos futuros
 
 1. establecer un cronograma mas concreto
    
