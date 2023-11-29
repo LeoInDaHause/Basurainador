@@ -30,6 +30,7 @@
    ## cronograma palnteado para la realizacion del primer objetivo
 
    https://www.canva.com/design/DAFuPcXsBWQ/CQxAwrTf0ytOGEh5u4aXKw/edit
+   
    <img width="374" alt="image" src="https://github.com/LeoInDaHause/Basurainador/assets/145580263/8de59ff5-89d9-479b-81d1-a72000928620">
 
 
