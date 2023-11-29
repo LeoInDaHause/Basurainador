@@ -52,3 +52,5 @@ es/ensenanza-del-desarrollo/
 
 J. Castells, "Teoría de las telecomunicaciones," Academia.edu, 2016. [En línea]. Disponible: https://www.academia.edu/29220037/Teor%C3%ADa_de_las_telecomunicaciones. [Accedido: 29-nov-2023]
 
+"Introducción - Modelado," MdP, 2016. [En línea]. Disponible: http://www3.fi.mdp.edu.ar/control4c7/APUNTES/Clase%201%20-%20Introduccion%20-%20Modelado.pdf. [Accedido: 29-nov-2023]
+
