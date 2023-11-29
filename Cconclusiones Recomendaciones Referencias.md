@@ -1,4 +1,4 @@
-# Conclusiones
+## Conclusiones
 1. Para realizar un Proyecto como el que nos planteamos es necesario una Investigacion y Preparacion Posterior, de igual manera que debatir y tener una participacion activa en el proyecto.
    
 2. Siempre debemos de mantener una Visión critica sobre lo que hacemos, es por esta razón que nuestra proyecto al pasar de tiempo fue variando poco a poco, mejorandolo cada vez mas. 
@@ -11,3 +11,4 @@
 
 6. el profesor nos recomendo que cuando tubieramos problemas, miramos el problema de manera aislada, y no de manera conjunta, para esto debemos de mirar componente por componente, para identificar y aislar el problema que se nos presente
 
+## Recomndaciones para proyectos futuros
