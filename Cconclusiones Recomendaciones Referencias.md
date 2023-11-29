@@ -50,3 +50,5 @@ del Desarrollo. [Online]. Available:
 https://www.nucleodoconhecimento.com.br/educacion-
 es/ensenanza-del-desarrollo/
 
+J. Castells, "Teoría de las telecomunicaciones," Academia.edu, 2016. [En línea]. Disponible: https://www.academia.edu/29220037/Teor%C3%ADa_de_las_telecomunicaciones. [Accedido: 29-nov-2023]
+
