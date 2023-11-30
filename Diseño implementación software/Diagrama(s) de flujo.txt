@@ -1,1 +1,3 @@
+El primer diagrama que se hizo, fue el diagrama de caja negra, este se define como un diagrma que muestra al usuario los diferentes mecanismos que hace un objeto, si recibe señales, y de esas señales también activa otras, estas señales puedes ser físicas, digitales, y lo mismo con los actuadores, y también define como este recibe energía, como transforma esa energía en señales y mensajes que recibe y manda, entre otras cosas.
 
+vv<hdfhsfhfhsffjhff<sdfh<fu<f <gfy<ufufeuFGWDUda dadfawdg awuuhgfashdghagsfdhasgdfgasfggggggGGGASDASDDASDASDasdsdASdDSDSDSDDDDddsdasadASDASDdsdsdsddsdasdasdSDSDADSDASDDsdasdadasdDSDASDSDSDHASDGSDGJSGDHdjhsdjadahdgJHGGHGJGJHsgdjhgdhagsdhajhdgjhJHGJGJajhgajhdgadghadghdgasdgJHGJHGGHsdgjhdadgasdgJHGJHJHJHsddgadgjhadgjadghJGJGADGsgd
